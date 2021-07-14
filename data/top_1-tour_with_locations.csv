@@ -1,158 +1,154 @@
 ﻿year,name,Date,City,"State, Country",Venue,Revenue
-2020,Celine Dion,8-Jan-20,Jacksonville,"Florida, USA",VyStar Veterans Memorial Arena,1912510.00
-2020,Celine Dion,11-Jan-20,Atlanta,"GA, USA",State Farm Arena,2323672.00
-2020,Celine Dion,13-Jan-20,Nashville,"TN, USA",Bridgestone Arena,2103662.00
-2020,Celine Dion,15-Jan-20,Tampa,"Florida, USA",Amalie Arena,2254145.00
-2020,Celine Dion,17-Jan-20,Miami,"Florida, USA",American Airlines Arena,5222838.00
-2020,Celine Dion,21-Jan-20,Charlotte,"NC, USA",Spectrum Center,2161228.00
-2020,Celine Dion,30-Jan-20,San Antonio,"TX, USA",AT&T Center,2021746.00
-2020,Celine Dion,1-Feb-20,Houston,"TX, USA",Toyota Center,2127052.00
-2020,Celine Dion,3-Feb-20,Dallas,"TX, USA",American Airlines Center,2657817.00
-2020,Celine Dion,5-Feb-20,Tulsa,"OK, USA",BOK Center,1619919.00
-2020,Celine Dion,7-Feb-20,New Orleans,"LA, USA",Smoothie King Center,2278207.00
-2020,Celine Dion,9-Feb-20,Memphis,"TN, USA",FedExForum,1609727.00
-2020,Celine Dion,11-Feb-20,Raleigh,"NC, USA",PNC Arena,2150963.00
-2020,Celine Dion,18-Feb-20,Montreal,Canada,Bell Centre,3587437.00
-2020,Celine Dion,22-Feb-20,Atlantic City,"NJ, USA",Boardwalk Hall,2470305.00
-2020,Celine Dion,24-Feb-20,Baltimore,"MD, USA",Royal Farms Arena,1591232.00
-2020,Celine Dion,26-Feb-20,Philadelphia,"PA, USA",Wells Fargo Center,2011920.00
-2020,Celine Dion,28-Feb-20,Brooklyn,"NY, USA",Barclays Center,5115713.00
-2020,Celine Dion,3-Mar-20,Uniondale,"NY, USA",Nassau Veterans Memorial Coliseum,1985445.00
-2020,Celine Dion,5-Mar-20,Brooklyn,"NY, USA",Barclays Center,1875568.00
-2020,Celine Dion,7-Mar-20,Newark,"NJ, USA",Prudential Center,4330802.00
-2019,The Rolling Stones,21-Jun-19,Chicago,United States,Soldier Field,21741564.00
-2019,The Rolling Stones,29-Jun-19,Oro-Medonte,Canada,Burl's Creek Event Grounds,0.00
-2019,The Rolling Stones,,,,,
-2019,The Rolling Stones,,,,,
-2019,The Rolling Stones,,,,,
-2019,The Rolling Stones,3-Jul-19,Landover,"MI, USA",FedExField,9257202.00
-2019,The Rolling Stones,7-Jul-19,Foxborough,"MA, USA",Gillette Stadium,11675732.00
-2019,The Rolling Stones,15-Jul-19,New Orleans,"LA, USA",Mercedes-Benz Superdome,7163692.00
-2019,The Rolling Stones,,,,,
-2019,The Rolling Stones,19-Jul-19,Jacksonville,"Florida, USA",TIAA Bank Field,10198392.00
-2019,The Rolling Stones,23-Jul-19,Philadelphia,"PA, USA",Lincoln Financial Field,11741373.00
-2019,The Rolling Stones,27-Jul-19,Houston,"TX, USA",NRG Stadium,11068397.00
-2019,The Rolling Stones,1-Aug-19,East Rutherford,"NJ, USA",MetLife Stadium,25510438.00
-2019,The Rolling Stones,10-Aug-19,Denver,"CO, USA",Broncos Stadium at Mile High,13494183.00
-2019,The Rolling Stones,14-Aug-19,Seattle,"WA, USA",CenturyLink Field,11835818.00
-2019,The Rolling Stones,18-Aug-19,Santa Clara,"CA, USA",Levi's Stadium,11496719.00
-2019,The Rolling Stones,22-Aug-19,Pasadena,"CA, USA",Rose Bowl,13113319.00
-2019,The Rolling Stones,26-Aug-19,Glendale,"CA, USA",State Farm Stadium,9747170.00
-2019,The Rolling Stones,30-Aug-19,Miami Gardens,"FL, USA",Hard Rock Stadium,9762771.00
-2018,Taylor Swift,8-May,Glendale,"CA, USA",University of Phoenix Stadium,7214478.00
-2018,Taylor Swift,11-May,Santa Clara,"CA, USA",Levi's Stadium,14006963.00
-2018,Taylor Swift,18-May,Pasadena,"CA, USA",Rose Bowl,16251980.00
-2018,Taylor Swift,22-May,Seattle,"WA, USA",CenturyLink Field,8672219.00
-2018,Taylor Swift,25-May,Denver,"CO, USA",Sports Authority Field at Mile High,7926366.00
-2018,Taylor Swift,1-Jun,Chicago,"IL, USA",Soldier Field,14576697.00
-2018,Taylor Swift,30-Jun,Louisville,"KY, USA",Cardinal Stadium,4928219.00
-2018,Taylor Swift,7-Jul,Columbus,"OH, USA",Ohio Stadium,6606529.00
-2018,Taylor Swift,10-Jul,Landover,"MI, USA",FedExField,11396004.00
-2018,Taylor Swift,13-Jul,Philadelphia,"PA, USA",Lincoln Financial Field,11951047.00
-2018,Taylor Swift,17-Jul,Cleveland,"OH, USA",FirstEnergy Stadium,5148757.00
-2018,Taylor Swift,20-Jul,East Rutherford,"NJ, USA",MetLife Stadium,22031386.00
-2018,Taylor Swift,26-Jul,Foxborough,"MA, USA",Gillette Stadium,21779846.00
-2018,Taylor Swift,3-Aug,Toronto,Canada,Rogers Centre,11177000.00
-2018,Taylor Swift,7-Aug,Pittsburgh,U.S.,Heinz Field,6230876.00
-2018,Taylor Swift,10-Aug,Atlanta,"GA, USA",Mercedes-Benz Stadium,18089415.00
-2018,Taylor Swift,14-Aug,Tampa,"FL, USA",Raymond James Stadium,7244264.00
-2018,Taylor Swift,18-Aug,Miami Gardens,"FL, USA",Hard Rock Stadium,7072164.00
-2018,Taylor Swift,25-Aug,Nashville,"TN, USA",Nissan Stadium,9007179.00
-2018,Taylor Swift,28-Aug,Detroit,"MI, USA",Ford Field,6597852.00
-2018,Taylor Swift,31-Aug,Minneapolis,"MN, USA",U.S. Bank Stadium,10242024.00
-2018,Taylor Swift,8-Sep,Kansas City,"KS, USA",Arrowhead Stadium,6730138.00
-2018,Taylor Swift,15-Sep,Indianapolis,"IN, USA",Lucas Oil Stadium,6531245.00
-2018,Taylor Swift,18-Sep,St. Louis,"MO, USA",The Dome at America's Center,4884054.00
-2018,Taylor Swift,22-Sep,New Orleans,"LA, USA",Mercedes-Benz Superdome,6491546.00
-2018,Taylor Swift,29-Sep,Houston,"TX, USA",NRG Stadium,9350275.00
-2018,Taylor Swift,5-Oct,Arlington,"VA, USA",AT&T Stadium,15006157.00
-2017,U2,12-May-17,Vancouver,Canada,BC Place,4321731.00
-2017,U2,14-May-17,Seattle,"WA, USA",CenturyLink Field,6249670.00
-2017,U2,17-May-17,Santa Clara,"CA, USA",Levi's Stadium,6268805.00
-2017,U2,20-May-17,Pasadena,"CA, USA",Rose Bowl,15784565.00
-2017,U2,24-May-17,Houston,"TX, USA",NRG Stadium,5889005.00
-2017,U2,26-May-17,Arlington,"TX, USA",AT&T Stadium,6044330.00
-2017,U2,3-Jun-17,Chicago,"IL, USA",Soldier Field,13435925.00
-2017,U2,7-Jun-17,Pittsburgh,"PA, USA",Heinz Field,4273920.00
-2017,U2,9-Jun-17,Manchester,"TN, USA",Great Stage Park,N/A
-2017,U2,11-Jun-17,Miami Gardens,"FL, USA",Hard Rock Stadium,5923665.00
-2017,U2,14-Jun-17,Tampa,"FL, USA",Raymond James Stadium,6125415.00
-2017,U2,16-Jun-17,Louisville,"KY, USA",Papa John's Cardinal Stadium,4810535.00
-2017,U2,18-Jun-17,Philadelphia,"PA, USA",Lincoln Financial Field,6259880.00
-2017,U2,20-Jun-17,Landover,"MI, USA",FedExField,6286385.00
-2017,U2,23-Jun-17,Toronto,Canada,Rogers Centre,5059568.00
-2017,U2,25-Jun-17,Foxborough,"MA, USA",Gillette Stadium,6881340.00
-2017,U2,28-Jun-17,East Rutherford,"NJ, USA",MetLife Stadium,14568805.00
-2017,U2,1-Jul-17,Cleveland,"OH, USA",FirstEnergy Stadium,5582965.00
-2016,Beyonce,27-Apr,Miami,"FL, USA",Marlins Park,5252615.00
-2016,Beyonce,29-Apr,Tampa,"FL, USA",Raymond James Stadium,4803295.00
-2016,Beyonce,1-May,Atlanta,"GA, USA",Georgia Dome,5801725.00
-2016,Beyonce,3-May,Raleigh,"NC, USA",Carter–Finley Stadium,4810620.00
-2016,Beyonce,7-May,Houston,"TX, USA",NRG Stadium,6412280.00
-2016,Beyonce,9-May,Arlington,"TX, USA",AT&T Stadium,5954775.00
-2016,Beyonce,12-May,San Diego,"CA, USA",Qualcomm Stadium,6028115.00
-2016,Beyonce,14-May,Pasadena,"CA, USA",Rose Bowl,7138685.00
-2016,Beyonce,16-May,Santa Clara,"CA, USA",Levi's Stadium,6201845.00
-2016,Beyonce,18-May,Seattle,"WA, USA",CenturyLink Field,5415810.00
-2016,Beyonce,20-May,Edmonton,Canada,Commonwealth Stadium,3723830.00
-2016,Beyonce,23-May,Minneapolis,"MN, USA",TCF Bank Stadium,4174270.00
-2016,Beyonce,25-May,Toronto,Canada,Rogers Centre,4440554.00
-2016,Beyonce,27-May,Chicago,"IL, USA",Soldier Field,11279890.00
-2016,Beyonce,31-May,Pittsburgh,"PA, USA",Heinz Field,3927805.00
-2016,Beyonce,3-Jun,Foxborough,"MA, USA",Gillette Stadium,6008698.00
-2016,Beyonce,5-Jun,Philadelphia,"PA, USA",Lincoln Financial Field,5563435.00
-2016,Beyonce,7-Jun,New York City,"NY, USA",Citi Field,11461340.00
-2016,Beyonce,10-Jun,Baltimore,"MD, USA",M&T Bank Stadium,5770660.00
-2016,Beyonce,12-Jun,Hershey,"PA, USA",Hersheypark Stadium,3474695.00
-2016,Beyonce,June 14 2016,Detroit,"MI, USA",Ford Field,5471395.00
-2016,Beyonce,10-Sep,St. Louis,"MO, USA",The Dome at America's Center,3953445.00
-2016,Beyonce,14-Sep,Los Angeles,"CA, USA",Dodger Stadium,6736700.00
-2016,Beyonce,17-Sep,Santa Clara,"CA, USA",Levi's Stadium,4898690.00
-2016,Beyonce,22-Sep,Houston,"TX, USA",NRG Stadium,5107065.00
-2016,Beyonce,24-Sep,New Orleans,"LA, USA",Mercedes-Benz Superdome,5349960.00
-2016,Beyonce,26-Sep,Atlanta,"GA, USA",Georgia Dome,5374615.00
-2016,Beyonce,29-Sep,Philadelphia,"PA, USA",Lincoln Financial Field,3353627.00
-2016,Beyonce,October 2 2016,Nashville,"TN, USA",Nissan Stadium,5182345.00
-2016,Beyonce,October 7 2016,East Rutherford,"NJ, USA",MetLife Stadium,6064625.00
-2015,Taylor Swift,"May 15, 2015[a]",Las Vegas,"NV, USA",City of Rock,N/A
-2015,Taylor Swift,20-May-15,Bossier City,"LA, USA",CenturyLink Center,1458197.00
-2015,Taylor Swift,22-May-15,Baton Rouge,"LA, USA",LSU Tiger Stadium,4119670.00
-2015,Taylor Swift,30-May-15,Detroit,"MI, USA",Ford Field,5999690.00
-2015,Taylor Swift,2-Jun-15,Louisville,"KY, USA",KFC Yum! Center,1863281.00
-2015,Taylor Swift,3-Jun-15,Cleveland,"OH, USA",Quicken Loans Arena,1732041.00
-2015,Taylor Swift,6-Jun-15,Pittsburgh,"PA, USA",Heinz Field,5836926.00
-2015,Taylor Swift,8-Jun-15,Charlotte,"NC, USA",Time Warner Cable Arena,1627798.00
-2015,Taylor Swift,9-Jun-15,Raleigh,"NC, USA",PNC Arena,1653762.00
-2015,Taylor Swift,12-Jun-15,Philadelphia,"PA, USA",Lincoln Financial Field,11987816.00
-2015,Taylor Swift,6-Jul-15,Ottawa,Canada,Canadian Tire Centre,1325480.00
-2015,Taylor Swift,7-Jul-15,Montreal,Canada,Bell Centre,1499040.00
-2015,Taylor Swift,10-Jul-15,East Rutherford,U.S.,MetLife Stadium,13423858.00
-2015,Taylor Swift,13-Jul-15,"Washington, D.C.","DC, USA",Nationals Park,9730596.00
-2015,Taylor Swift,18-Jul-15,Chicago,"IL, USA",Soldier Field,11469887.00
-2015,Taylor Swift,24-Jul-15,Foxborough,"MA, USA",Gillette Stadium,12533166.00
-2015,Taylor Swift,1-Aug-15,Vancouver,Canada,BC Place Stadium,4081820.00
-2015,Taylor Swift,4-Aug-15,Edmonton,Canada,Rexall Place,2387080.00
-2015,Taylor Swift,8-Aug-15,Seattle,"WA, USA",CenturyLink Field,6050643.00
-2015,Taylor Swift,14-Aug-15,Santa Clara,CA. USA,Levi's Stadium,13031146.00
-2015,Taylor Swift,17-Aug-15,Glendale,"CA, USA",Gila River Arena,3029628.00
-2015,Taylor Swift,21-Aug-15,Los Angeles,"CA, USA",Staples Center,8961681.00
-2015,Taylor Swift,29-Aug-15,San Diego,"CA, USA",Petco Park,5475237.00
-2015,Taylor Swift,4-Sep-15,Salt Lake City,"UT, USA",EnergySolutions Arena,1589686.00
-2015,Taylor Swift,5-Sep-15,Denver,"CO, USA",Pepsi Center,2868991.00
-2015,Taylor Swift,9-Sep-15,Houston,"TX, USA",Minute Maid Park,5202196.00
-2015,Taylor Swift,11-Sep-15,Saint Paul,"MN, USA",Xcel Energy Center,5514863.00
-2015,Taylor Swift,16-Sep-15,Indianapolis,"IN, USA",Bankers Life Fieldhouse,1550268.00
-2015,Taylor Swift,17-Sep-15,Columbus,"OH, USA",Nationwide Arena,3369693.00
-2015,Taylor Swift,21-Sep-15,Kansas City,"KS, USA",Sprint Center,2967558.00
-2015,Taylor Swift,25-Sep-15,Nashville,"TN, USA",Bridgestone Arena,3354844.00
-2015,Taylor Swift,28-Sep-15,St. Louis,"MO, USA",Scottrade Center,3452940.00
-2015,Taylor Swift,2-Oct-15,Toronto,Canada,Rogers Centre,8670990.00
-2015,Taylor Swift,8-Oct-15,Des Moines,U.S.,Wells Fargo Arena,1566321.00
-2015,Taylor Swift,9-Oct-15,Omaha,"NE, USA",CenturyLink Center Omaha,3121421.00
-2015,Taylor Swift,12-Oct-15,Fargo,"ND, USA",Fargodome,2219188.00
-2015,Taylor Swift,17-Oct-15,Arlington,"VA, USA",AT&T Stadium,7396733.00
-2015,Taylor Swift,20-Oct-15,Lexington,"KY, USA",Rupp Arena,1870471.00
-2015,Taylor Swift,21-Oct-15,Greensboro,"NC, USA",Greensboro Coliseum,1662171.00
-2015,Taylor Swift,24-Oct-15,Atlanta,"GA, USA",Georgia Dome,6034846.00
-2015,Taylor Swift,27-Oct-15,Miami,"FL, USA",American Airlines Arena,1527919.00
-2015,Taylor Swift,31-Oct-15,Tampa,"FL, USA",Raymond James Stadium,6202515.00
+2020,Celine Dion,1/8/2020,Jacksonville,"Florida, USA",VyStar Veterans Memorial Arena,1912510
+2020,Celine Dion,1/11/2020,Atlanta,"GA, USA",State Farm Arena,2323672
+2020,Celine Dion,1/13/2020,Nashville,"TN, USA",Bridgestone Arena,2103662
+2020,Celine Dion,1/15/2020,Tampa,"Florida, USA",Amalie Arena,2254145
+2020,Celine Dion,1/17/2020,Miami,"Florida, USA",American Airlines Arena,5222838
+2020,Celine Dion,1/21/2020,Charlotte,"NC, USA",Spectrum Center,2161228
+2020,Celine Dion,1/30/2020,San Antonio,"TX, USA",AT&T Center,2021746
+2020,Celine Dion,2/1/2020,Houston,"TX, USA",Toyota Center,2127052
+2020,Celine Dion,2/3/2020,Dallas,"TX, USA",American Airlines Center,2657817
+2020,Celine Dion,2/5/2020,Tulsa,"OK, USA",BOK Center,1619919
+2020,Celine Dion,2/7/2020,New Orleans,"LA, USA",Smoothie King Center,2278207
+2020,Celine Dion,2/9/2020,Memphis,"TN, USA",FedExForum,1609727
+2020,Celine Dion,2/11/2020,Raleigh,"NC, USA",PNC Arena,2150963
+2020,Celine Dion,2/18/2020,Montreal,Canada,Bell Centre,3587437
+2020,Celine Dion,2/22/2020,Atlantic City,"NJ, USA",Boardwalk Hall,2470305
+2020,Celine Dion,2/24/2020,Baltimore,"MD, USA",Royal Farms Arena,1591232
+2020,Celine Dion,2/26/2020,Philadelphia,"PA, USA",Wells Fargo Center,2011920
+2020,Celine Dion,2/28/2020,Brooklyn,"NY, USA",Barclays Center,5115713
+2020,Celine Dion,3/3/2020,Uniondale,"NY, USA",Nassau Veterans Memorial Coliseum,1985445
+2020,Celine Dion,3/5/2020,Brooklyn,"NY, USA",Barclays Center,1875568
+2020,Celine Dion,3/7/2020,Newark,"NJ, USA",Prudential Center,4330802
+2019,The Rolling Stones,6/21/2019,Chicago,United States,Soldier Field,21741564
+2019,The Rolling Stones,6/29/2019,Oro-Medonte,Canada,Burl's Creek Event Grounds,0
+2019,The Rolling Stones,7/3/2019,Landover,"MI, USA",FedExField,9257202
+2019,The Rolling Stones,7/7/2019,Foxborough,"MA, USA",Gillette Stadium,11675732
+2019,The Rolling Stones,7/15/2019,New Orleans,"LA, USA",Mercedes-Benz Superdome,7163692
+2019,The Rolling Stones,7/19/2019,Jacksonville,"Florida, USA",TIAA Bank Field,10198392
+2019,The Rolling Stones,7/23/2019,Philadelphia,"PA, USA",Lincoln Financial Field,11741373
+2019,The Rolling Stones,7/27/2019,Houston,"TX, USA",NRG Stadium,11068397
+2019,The Rolling Stones,8/1/2019,East Rutherford,"NJ, USA",MetLife Stadium,25510438
+2019,The Rolling Stones,8/10/2019,Denver,"CO, USA",Broncos Stadium at Mile High,13494183
+2019,The Rolling Stones,8/14/2019,Seattle,"WA, USA",CenturyLink Field,11835818
+2019,The Rolling Stones,8/18/2019,Santa Clara,"CA, USA",Levi's Stadium,11496719
+2019,The Rolling Stones,8/22/2019,Pasadena,"CA, USA",Rose Bowl,13113319
+2019,The Rolling Stones,8/26/2019,Glendale,"CA, USA",State Farm Stadium,9747170
+2019,The Rolling Stones,8/30/2019,Miami Gardens,"FL, USA",Hard Rock Stadium,9762771
+2018,Taylor Swift,5/8/2018,Glendale,"CA, USA",University of Phoenix Stadium,7214478
+2018,Taylor Swift,5/11/2018,Santa Clara,"CA, USA",Levi's Stadium,14006963
+2018,Taylor Swift,5/18/2018,Pasadena,"CA, USA",Rose Bowl,16251980
+2018,Taylor Swift,5/22/2018,Seattle,"WA, USA",CenturyLink Field,8672219
+2018,Taylor Swift,5/25/2018,Denver,"CO, USA",Sports Authority Field at Mile High,7926366
+2018,Taylor Swift,6/1/2018,Chicago,"IL, USA",Soldier Field,14576697
+2018,Taylor Swift,6/30/2018,Louisville,"KY, USA",Cardinal Stadium,4928219
+2018,Taylor Swift,7/7/2018,Columbus,"OH, USA",Ohio Stadium,6606529
+2018,Taylor Swift,7/10/2018,Landover,"MI, USA",FedExField,11396004
+2018,Taylor Swift,7/13/2018,Philadelphia,"PA, USA",Lincoln Financial Field,11951047
+2018,Taylor Swift,7/17/2018,Cleveland,"OH, USA",FirstEnergy Stadium,5148757
+2018,Taylor Swift,7/20/2018,East Rutherford,"NJ, USA",MetLife Stadium,22031386
+2018,Taylor Swift,7/26/2018,Foxborough,"MA, USA",Gillette Stadium,21779846
+2018,Taylor Swift,8/3/2018,Toronto,Canada,Rogers Centre,11177000
+2018,Taylor Swift,8/7/2018,Pittsburgh,U.S.,Heinz Field,6230876
+2018,Taylor Swift,8/10/2018,Atlanta,"GA, USA",Mercedes-Benz Stadium,18089415
+2018,Taylor Swift,8/14/2018,Tampa,"FL, USA",Raymond James Stadium,7244264
+2018,Taylor Swift,8/18/2018,Miami Gardens,"FL, USA",Hard Rock Stadium,7072164
+2018,Taylor Swift,8/25/2018,Nashville,"TN, USA",Nissan Stadium,9007179
+2018,Taylor Swift,8/28/2018,Detroit,"MI, USA",Ford Field,6597852
+2018,Taylor Swift,8/31/2018,Minneapolis,"MN, USA",U.S. Bank Stadium,10242024
+2018,Taylor Swift,9/8/2018,Kansas City,"KS, USA",Arrowhead Stadium,6730138
+2018,Taylor Swift,9/15/2018,Indianapolis,"IN, USA",Lucas Oil Stadium,6531245
+2018,Taylor Swift,9/18/2018,St. Louis,"MO, USA",The Dome at America's Center,4884054
+2018,Taylor Swift,9/22/2018,New Orleans,"LA, USA",Mercedes-Benz Superdome,6491546
+2018,Taylor Swift,9/29/2018,Houston,"TX, USA",NRG Stadium,9350275
+2018,Taylor Swift,10/5/2018,Arlington,"VA, USA",AT&T Stadium,15006157
+2017,U2,5/12/2017,Vancouver,Canada,BC Place,4321731
+2017,U2,5/14/2017,Seattle,"WA, USA",CenturyLink Field,6249670
+2017,U2,5/17/2017,Santa Clara,"CA, USA",Levi's Stadium,6268805
+2017,U2,5/20/2017,Pasadena,"CA, USA",Rose Bowl,15784565
+2017,U2,5/24/2017,Houston,"TX, USA",NRG Stadium,5889005
+2017,U2,5/26/2017,Arlington,"TX, USA",AT&T Stadium,6044330
+2017,U2,6/3/2017,Chicago,"IL, USA",Soldier Field,13435925
+2017,U2,6/7/2017,Pittsburgh,"PA, USA",Heinz Field,4273920
+2017,U2,6/9/2017,Manchester,"TN, USA",Great Stage Park,0
+2017,U2,6/11/2017,Miami Gardens,"FL, USA",Hard Rock Stadium,5923665
+2017,U2,6/14/2017,Tampa,"FL, USA",Raymond James Stadium,6125415
+2017,U2,6/16/2017,Louisville,"KY, USA",Papa John's Cardinal Stadium,4810535
+2017,U2,6/18/2017,Philadelphia,"PA, USA",Lincoln Financial Field,6259880
+2017,U2,6/20/2017,Landover,"MI, USA",FedExField,6286385
+2017,U2,6/23/2017,Toronto,Canada,Rogers Centre,5059568
+2017,U2,6/25/2017,Foxborough,"MA, USA",Gillette Stadium,6881340
+2017,U2,6/28/2017,East Rutherford,"NJ, USA",MetLife Stadium,14568805
+2017,U2,7/1/2017,Cleveland,"OH, USA",FirstEnergy Stadium,5582965
+2016,Beyonce,4/27/2016,Miami,"FL, USA",Marlins Park,5252615
+2016,Beyonce,4/29/2016,Tampa,"FL, USA",Raymond James Stadium,4803295
+2016,Beyonce,5/1/2016,Atlanta,"GA, USA",Georgia Dome,5801725
+2016,Beyonce,5/3/2016,Raleigh,"NC, USA",Carter–Finley Stadium,4810620
+2016,Beyonce,5/7/2016,Houston,"TX, USA",NRG Stadium,6412280
+2016,Beyonce,5/9/2016,Arlington,"TX, USA",AT&T Stadium,5954775
+2016,Beyonce,5/12/2016,San Diego,"CA, USA",Qualcomm Stadium,6028115
+2016,Beyonce,5/14/2016,Pasadena,"CA, USA",Rose Bowl,7138685
+2016,Beyonce,5/16/2016,Santa Clara,"CA, USA",Levi's Stadium,6201845
+2016,Beyonce,5/18/2016,Seattle,"WA, USA",CenturyLink Field,5415810
+2016,Beyonce,5/20/2016,Edmonton,Canada,Commonwealth Stadium,3723830
+2016,Beyonce,5/23/2016,Minneapolis,"MN, USA",TCF Bank Stadium,4174270
+2016,Beyonce,5/25/2016,Toronto,Canada,Rogers Centre,4440554
+2016,Beyonce,5/27/2016,Chicago,"IL, USA",Soldier Field,11279890
+2016,Beyonce,5/31/2016,Pittsburgh,"PA, USA",Heinz Field,3927805
+2016,Beyonce,6/3/2016,Foxborough,"MA, USA",Gillette Stadium,6008698
+2016,Beyonce,6/5/2016,Philadelphia,"PA, USA",Lincoln Financial Field,5563435
+2016,Beyonce,6/7/2016,New York City,"NY, USA",Citi Field,11461340
+2016,Beyonce,6/10/2016,Baltimore,"MD, USA",M&T Bank Stadium,5770660
+2016,Beyonce,6/12/2016,Hershey,"PA, USA",Hersheypark Stadium,3474695
+2016,Beyonce,6/14/2016,Detroit,"MI, USA",Ford Field,5471395
+2016,Beyonce,9/10/2016,St. Louis,"MO, USA",The Dome at America's Center,3953445
+2016,Beyonce,9/14/2016,Los Angeles,"CA, USA",Dodger Stadium,6736700
+2016,Beyonce,9/17/2016,Santa Clara,"CA, USA",Levi's Stadium,4898690
+2016,Beyonce,9/22/2016,Houston,"TX, USA",NRG Stadium,5107065
+2016,Beyonce,9/24/2016,New Orleans,"LA, USA",Mercedes-Benz Superdome,5349960
+2016,Beyonce,9/26/2016,Atlanta,"GA, USA",Georgia Dome,5374615
+2016,Beyonce,9/29/2016,Philadelphia,"PA, USA",Lincoln Financial Field,3353627
+2016,Beyonce,10/2/2016,Nashville,"TN, USA",Nissan Stadium,5182345
+2016,Beyonce,10/7/2016,East Rutherford,"NJ, USA",MetLife Stadium,6064625
+2015,Taylor Swift,5/15/2015,Las Vegas,"NV, USA",City of Rock,0
+2015,Taylor Swift,5/20/2015,Bossier City,"LA, USA",CenturyLink Center,1458197
+2015,Taylor Swift,5/22/2015,Baton Rouge,"LA, USA",LSU Tiger Stadium,4119670
+2015,Taylor Swift,5/30/2015,Detroit,"MI, USA",Ford Field,5999690
+2015,Taylor Swift,6/2/2015,Louisville,"KY, USA",KFC Yum! Center,1863281
+2015,Taylor Swift,6/3/2015,Cleveland,"OH, USA",Quicken Loans Arena,1732041
+2015,Taylor Swift,6/6/2015,Pittsburgh,"PA, USA",Heinz Field,5836926
+2015,Taylor Swift,6/8/2015,Charlotte,"NC, USA",Time Warner Cable Arena,1627798
+2015,Taylor Swift,6/9/2015,Raleigh,"NC, USA",PNC Arena,1653762
+2015,Taylor Swift,6/12/2015,Philadelphia,"PA, USA",Lincoln Financial Field,11987816
+2015,Taylor Swift,7/6/2015,Ottawa,Canada,Canadian Tire Centre,1325480
+2015,Taylor Swift,7/7/2015,Montreal,Canada,Bell Centre,1499040
+2015,Taylor Swift,7/10/2015,East Rutherford,"NJ, USA",MetLife Stadium,13423858
+2015,Taylor Swift,7/13/2015,"Washington, D.C.","DC, USA",Nationals Park,9730596
+2015,Taylor Swift,7/18/2015,Chicago,"IL, USA",Soldier Field,11469887
+2015,Taylor Swift,7/24/2015,Foxborough,"MA, USA",Gillette Stadium,12533166
+2015,Taylor Swift,8/1/2015,Vancouver,Canada,BC Place Stadium,4081820
+2015,Taylor Swift,8/4/2015,Edmonton,Canada,Rexall Place,2387080
+2015,Taylor Swift,8/8/2015,Seattle,"WA, USA",CenturyLink Field,6050643
+2015,Taylor Swift,8/14/2015,Santa Clara,CA. USA,Levi's Stadium,13031146
+2015,Taylor Swift,8/17/2015,Glendale,"CA, USA",Gila River Arena,3029628
+2015,Taylor Swift,8/21/2015,Los Angeles,"CA, USA",Staples Center,8961681
+2015,Taylor Swift,8/29/2015,San Diego,"CA, USA",Petco Park,5475237
+2015,Taylor Swift,9/4/2015,Salt Lake City,"UT, USA",EnergySolutions Arena,1589686
+2015,Taylor Swift,9/5/2015,Denver,"CO, USA",Pepsi Center,2868991
+2015,Taylor Swift,9/9/2015,Houston,"TX, USA",Minute Maid Park,5202196
+2015,Taylor Swift,9/11/2015,Saint Paul,"MN, USA",Xcel Energy Center,5514863
+2015,Taylor Swift,9/16/2015,Indianapolis,"IN, USA",Bankers Life Fieldhouse,1550268
+2015,Taylor Swift,9/17/2015,Columbus,"OH, USA",Nationwide Arena,3369693
+2015,Taylor Swift,9/21/2015,Kansas City,"KS, USA",Sprint Center,2967558
+2015,Taylor Swift,9/25/2015,Nashville,"TN, USA",Bridgestone Arena,3354844
+2015,Taylor Swift,9/28/2015,St. Louis,"MO, USA",Scottrade Center,3452940
+2015,Taylor Swift,10/2/2015,Toronto,Canada,Rogers Centre,8670990
+2015,Taylor Swift,10/8/2015,Des Moines,"IA, USA",Wells Fargo Arena,1566321
+2015,Taylor Swift,10/9/2015,Omaha,"NE, USA",CenturyLink Center Omaha,3121421
+2015,Taylor Swift,10/12/2015,Fargo,"ND, USA",Fargodome,2219188
+2015,Taylor Swift,10/17/2015,Arlington,"VA, USA",AT&T Stadium,7396733
+2015,Taylor Swift,10/20/2015,Lexington,"KY, USA",Rupp Arena,1870471
+2015,Taylor Swift,10/21/2015,Greensboro,"NC, USA",Greensboro Coliseum,1662171
+2015,Taylor Swift,10/24/2015,Atlanta,"GA, USA",Georgia Dome,6034846
+2015,Taylor Swift,10/27/2015,Miami,"FL, USA",American Airlines Arena,1527919
+2015,Taylor Swift,10/31/2015,Tampa,"FL, USA",Raymond James Stadium,6202515
